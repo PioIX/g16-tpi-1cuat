@@ -1,16 +1,18 @@
 # gnn-tpi-1cuat
-<h1>Integrantes</h1><br>
+<h1>-Integrantes-</h1><br>
 Santiago Balanzat, Franco Grillo Herbon, Lautaro Miguez y Santiago Odriozola <br>
 
-<h1>Curso</h1>
-5A INFO <br>
+<h1>-Curso-</h1>
+5º "A" - INFORMÁTICA <br>
 
-<h1>Propuesta</h1><br>
-Fomentar la Industria, Innovación e Infraestructura (ODS 9) mediante un juego que tenga como objetivo desarrollar nuestras Fábricas(generan plata con valor agregado), Plantas de energía (generan energía para nuestras fábricas)  y recolección de recursos (materiales para fabricar los productos que vendamos, que tambien incluye preguntas educativas sobre el tema que serán importantes contestar para el progreso del juego.
+<h1>-Propuesta-</h1><br>
+Fomentar la Industria, Innovación e Infraestructura (ODS 9) mediante un juego cuyo objetivo es desarrollar nuestras Fábricas (generan dinero con valor agregado), Plantas de energía (generan energía para nuestras fábricas) y recolección de recursos (materiales para fabricar los productos que vendemos). Además, incluye preguntas educativas sobre el tema que serán importantes contestar para el progreso del juego.
 
 <h1>Titulo de la propuesta</h1>
-<h2>Industrial Manager</h2><br>
+<h2>-Industrial Manager-</h2><br>
 
-<h1>Descripción</h1><br>
-El jugador tendrá de inicio cada uno de los tres edificios y los recursos necesarios para trabajar en el inicio (dinero, materiales y energía). Cada uno de los edificios produce uno de los respectivos recursos (recolector de materiales necesita energía y dinero, mientras este nos da materiales; planta de energía necesita dinero y materiales, mientras que esta genera electricidad; y la fábrica que necesita materiales y electricidad, y genera dinero). El jugador va a poder mejorar los edificios o construir más de estos, mientras éste mantenga el balance para que no se pare la producción por falta de recursos. También contará con un “menú de innovaciones” en donde puede hacer mejoras especiales que tardan un tiempo en terminarse pero dan una mejora para todos los edificios de un tipo en específico.
-También cada vez que el jugador quiera hacer alguna mejora, este tendrá que contestar una pregunta relacionada con el ODS 9, en caso de acertar la mejora se realiza con éxito, pero si se responde incorrectamente solo pierde el dinero invertido. 
+<h1>-Descripción-</h1><br>
+Al iniciar, el jugador tendrá disponible cada uno de los tres edificios y los recursos necesarios para trabajar (dinero, materiales y energía). Cada edificio produce su respectivo recurso (el recolector de materiales necesita energía y dinero, mientras que éste nos entrega materiales, la planta de energía necesita dinero y materiales a cambio de generar electricidad y la fábrica que necesita materiales y electricidad para producir dinero).
+El jugador tiene la oportunidad de mejorar los edificios o construir más de estos con el fin de mantener un balance para no detener la producción debido a la falta de recursos.
+Se contará con un “Menú de Innovaciones” en el cual se pueden adquirir ciertas mejoras especiales, que tardan un tiempo en llevarse a cabo pero benefician todos los edificios de un tipo en específico.
+Cada vez que el jugador quiera realizar alguna mejora, este tendrá que contestar una pregunta relacionada con el ODS 9, en caso de acertar la mejora se realizará con éxito, de lo contrario solamente perderá el dinero invertido. 
