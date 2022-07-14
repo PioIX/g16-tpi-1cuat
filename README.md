@@ -2,7 +2,10 @@
 # G Nº16 - T.P.I. - 1Cuat
 
 <h1>-Integrantes-</h1><br>
-Santiago Balanzat, Franco Grillo Herbon, Lautaro Miguez y Santiago Odriozola <br>
+Santiago Balanzat <br>
+Franco Grillo Herbon <br>
+Lautaro Miguez <br>
+Santiago Odriozola <br>
 
 <h1>-Curso-</h1>
 5º "A" - INFORMÁTICA <br>
