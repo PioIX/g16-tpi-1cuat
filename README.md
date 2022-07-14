@@ -1,4 +1,4 @@
-# gnn-tpi-1cuat
+# G Nº16 - T.P.I. - 1Cuat
 <h1>-Integrantes-</h1><br>
 Santiago Balanzat, Franco Grillo Herbon, Lautaro Miguez y Santiago Odriozola <br>
 
