@@ -21,3 +21,7 @@ Al iniciar, el jugador tendrá disponible cada uno de los tres edificios y los r
 El jugador tiene la oportunidad de mejorar los edificios o construir más de estos con el fin de mantener un balance para no detener la producción debido a la falta de recursos. <br>
 Se contará con un “Menú de Innovaciones” en el cual se pueden adquirir ciertas mejoras especiales, que tardan un tiempo en llevarse a cabo pero benefician todos los edificios de un tipo en específico. <br>
 Cada vez que el jugador quiera realizar alguna mejora, este tendrá que contestar una pregunta relacionada con el ODS 9, en caso de acertar la mejora se realizará con éxito, de lo contrario solamente perderá el dinero invertido. <br>
+
+<h1>-Flask:-</h1><br>
+Link:
+https://github.com/lautaroMiguez/Flask
